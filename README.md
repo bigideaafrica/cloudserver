@@ -42,8 +42,8 @@ cat C:/Users/YourUsername/.ssh/id_rsa.pub
 
 1. Clone the repository and setup virtual environment:
 ```bash
-git clone [https://github.com/BANADDA/container_service]
-cd container_service
+git clone [https://github.com/BANADDA/cloudserver]
+cd cloudserver
 python3 -m venv venv
 source venv/bin/activate
 ```
